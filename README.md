@@ -16,6 +16,7 @@ We used the two features to train the model and Model accuracy: became 90%.
 2- Second: we loaded it in google colab.
 
 3- Third: we used .head() to show first 5 rows.
+
 !['Car Evaluation dataset'](picture/car_eva_data.PNG)
 
 1- First: we used different number of training samples to show the impact of 
